@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/bijlwan07ankit/](https://www.crio.do/learn/portfolio/bijlwan07ankit/)
 
-- 📝 I regularly write articles on [JavaScript, react, Front End Dev Technologies](JavaScript, react, Front End Dev Technologies)
+- 📝 I regularly write articles on [JavaScript, react, Front End Dev Technologies]
 
 - 💬 Ask me about **react, Responsive Design,**
 
