@@ -4,10 +4,8 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" />
 
-- 🔭 I’m currently working on [Qtify](https://q-tify-silk.vercel.app/)
-
 - 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB, Express**
-
+- 🔭 I’m currently working on [Qtify](https://q-tify-silk.vercel.app/)
 - 🔭My recent Project E-com website [Q-kart](https://qkart-frontend-by-ankit.vercel.app/)
 
 - 🔭My recent Project E-com website [Q-trip](https://qtripdynamic-kappa.vercel.app/)
@@ -20,7 +18,7 @@
 
 - 📫 How to reach me **bijlwan07ankit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eyduMshPvII-uCrdZkD2xx79XrVdmzUK/view?usp=sharing](https://drive.google.com/file/d/1eyduMshPvII-uCrdZkD2xx79XrVdmzUK/view?usp=sharing)
+- 📄 Check out my Resume** [https://drive.google.com/file/d/1eyduMshPvII-uCrdZkD2xx79XrVdmzUK/view?usp=sharing](https://drive.google.com/file/d/1eyduMshPvII-uCrdZkD2xx79XrVdmzUK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
